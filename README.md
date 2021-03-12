@@ -3,7 +3,7 @@
 ## Background 
 Had trouble getting a version of [RasMol](http://rasmol.org) to work under CentoOS.
 
-This is needed by (US-SOMO)[https://somo.aucsolutions.com).
+This is needed by [US-SOMO](https://somo.aucsolutions.com).
 
 This is a copy of the RasMol binary I had on an Ubuntu 16.04 system along with the missing libraries.
 
