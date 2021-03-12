@@ -1,7 +1,7 @@
 # rasmol-centos
 
 ## Background 
-Had trouble getting a version of [RasMol](http://rasmol.org) to work under CentoOS.
+Had trouble getting a version of [RasMol](http://rasmol.org) to work under CentOS 7 & 8
 
 This is needed by [US-SOMO](https://somo.aucsolutions.com).
 
