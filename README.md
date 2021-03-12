@@ -17,4 +17,4 @@ Install, make sure lib/ is in your LD_LIBRARY_PATH and run bin/rasmol
  - If you have issues or find further missing libraries, please create an issue here.
  - If you already have some of the libraries, you may not need everything in lib
  - Missing libraries can be identified by ```ldd rasmol | grep 'not found'```
- - demo/1HEL.pdb is a copy downloaded from the (RCSB)[https://www.rcsb.org/]
+ - demo/1HEL.pdb is a copy downloaded from the [RCSB](https://www.rcsb.org/)
